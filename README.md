@@ -2,27 +2,31 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/Minecraft-1.7.10%20%7C%201.8.9-brightgreen?style=for-the-badge" alt="Minecraft Version"> <img src="https://img.shields.io/badge/PvP-Optimized-red?style=for-the-badge" alt="PvP Optimized"> <img src="https://img.shields.io/badge/FPS-Boosted-blue?style=for-the-badge" alt="FPS Boosted"> <img src="https://img.shields.io/badge/Launcher-Secure-orange?style=for-the-badge" alt="Secure Launcher"> <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="License"> </p>
 
+---
 
-📖 简介
+## 📖 简介
 PvP Client 是一款专为竞技玩家打造的 Minecraft PvP 客户端，支持 1.7.10 与 1.8.9 两大经典 PvP 版本。
 我们从底层优化渲染管线与逻辑线程，带来极致的帧数表现，同时内置一套美观、顺手的 HUD 与模组系统，并配备安全可靠的启动器，让你专注于战斗本身。
 
+---
 
-✨ 核心特性 🎯 极致帧数优化
+## ✨ 核心特性 🎯 极致帧数优化
 - 重构渲染管线，减少不必要的绘制调用
 - 优化实体与粒子渲染，团战不掉帧
 - 智能内存管理，减少 GC 卡顿
 - 可自定义画质选项，性能与观感自由平衡
 
+---
 
-🖥️ 舒适的 HUD 系统
+## 🖥️ 舒适的 HUD 系统
 - 简洁现代的 HUD 布局，信息一目了然
 - 支持拖拽自定义位置、缩放与透明度
 - 内置多种实用信息模块（FPS、Ping、CPS、坐标、盔甲等）
 - 支持自定义主题色，打造属于你的界面
 
+---
 
-🧩 强大的模组功能
+## 🧩 强大的模组功能
 - 模块化设计，按需开启
 - 常用 PvP 辅助功能开箱即用
 - 支持快捷键绑定，战斗中快速切换
